@@ -1,1 +1,1 @@
-#Slider Vue
+Slider Vue
